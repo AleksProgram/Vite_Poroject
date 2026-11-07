@@ -33,7 +33,7 @@ export const students =[
         "age": 17,
         "group": "React Basics",
         "isActive": true
-    },
+    }
 ];
 
 /*
